@@ -1,19 +1,19 @@
 = Light Jam
 
-image:Logo.jpg[width=300]
++++
+<p align="center">
+    <img src="Logo.jpg" width="300">
+</p>
++++
 
-Shortly: A lightweight, portable, modular LED sound reactive lightning setup
+    In a nutshell: A lightweight, portable, modular LED sound reactive lightning setup
 
-First idea of making this project was inspired by light show in Toruń called https://bellaskyway.pl/en/[Bella Skyway]
+.Beginnings and origin:
+Inspired by light show in Toruń called https://bellaskyway.pl/en/[Bella Skyway], driven by my passion for engineering and dancing. +
+First version of this project was made in 2024 in about 3 days as a proof of concept link:Light%20Jam%20v1/Light%20Jam%20v1.adoc[Light Jam v1]
 
+.Current version:
+After a bigger than expected success of the first version I decided to make a second, more professional version of this project called link:Light%20Jam2/Light%20Jam2.adoc[Light Jam²]
 
-
-First version of this project was made in 2024 in about 3 days.
-
-* link:Light%20Jam%20v1/Light%20Jam%20v1.adoc[Light Jam v1]
-
-After a huge success of the first version I decided to make a second, more professional version of this project called:
-
-* link:Light%20Jam2/Light%20Jam2.adoc[Light Jam²]
-
-In case the project lives long enough, I plan to make a third version of this project called: Light Jam³/!Light Jam/Light Jam ∞
+.Future plans:
+In case the project lives long enough, I plan to make a third version of this project called: _Light Jam³/!Light Jam/Light Jam ∞_. A complete overhaul of the project featuring custom parts, which unfortunately would make this project way less accessible for reproduction for the average person.
